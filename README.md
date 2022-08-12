@@ -1,6 +1,6 @@
 # AzureMediaServiceDemo
 
-###Download Open Broadcaster Software (OBS)
+### Download Open Broadcaster Software (OBS)
 
 ![Screenshot](https://github.com/alimo7amed93/AzureMediaServiceDemo/blob/main/Images/image1.png)
 
