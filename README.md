@@ -32,6 +32,7 @@
 
 ### You can use the Stream URL to view on Azure Media Player Demo Page
 [Azure Media Player Demo](https://ampdemo.azureedge.net/azuremediaplayer.html)
+
 ![Screenshot](https://github.com/alimo7amed93/AzureMediaServiceDemo/blob/main/Images/image14.png)
 
 ### Don’t forget to clear the resources on Azure Portal after stopping streaming to stop the billing
